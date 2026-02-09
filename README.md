@@ -121,14 +121,3 @@ Here are a few projects that I’ve worked on:
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kesarsingh657&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
-
-## 🌟 &nbsp;Top Repositories
-
-<p align="center">
-  <a href="https://github.com/phionex2/Handwritten-Digit-classification">
-    <img width="300em" src="https://github-readme-stats.vercel.app/api/pin/?username=phionex2&repo=Handwritten-Digit-classification&theme=algolia" />
-  </a>
-  <a href="https://github.com/phionex2/Deep-Learning">
-    <img width="300em" src="https://github-readme-stats.vercel.app/api/pin/?username=phionex2&repo=Deep-Learning&theme=algolia" />
-  </a>
-</p>
