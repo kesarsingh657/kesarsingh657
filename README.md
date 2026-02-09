@@ -105,39 +105,30 @@
 </div>
 
 ###
+## 🚀 &nbsp;Projects
 
-<div align="center" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0" alt="Medium post 1"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1" alt="Medium post 2"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2" alt="Medium post 3"  />
-  </a>
-</div>
+Here are a few projects that I’ve worked on:
 
-###
+- 📝 **Lava support chatbot**: This project is a JavaScript-based conversational tool designed to streamline customer support. It focuses on reducing response times by automating answers to frequently asked questions and guiding users through support workflows.
+- 📊 **Backend User Manage**: A robust, type-safe backend system dedicated to the lifecycle of user data. This project demonstrates a high level of security and data integrity by leveraging TypeScript’s static typing to prevent common runtime errors in user authentication and authorization flows.
+- 🏍️ **Vehicle Portal**: A specialized management platform tailored for the automotive or logistics sector. This project handles complex data sets—such as vehicle specifications, inventory, or maintenance records—and presents them in a user-friendly interface.
+  
+## 📈 &nbsp;GitHub Analytics
 
-<div align="center" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0" alt="Medium post 1"  />
+<p align="center">
+  <a href="https://github.com/kesarsingh657">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kesarsingh657&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kesarsingh657&layout=compact&langs_count=8&theme=algolia"/>
   </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1" alt="Medium post 2"  />
+</p>
+
+## 🌟 &nbsp;Top Repositories
+
+<p align="center">
+  <a href="https://github.com/phionex2/Handwritten-Digit-classification">
+    <img width="300em" src="https://github-readme-stats.vercel.app/api/pin/?username=phionex2&repo=Handwritten-Digit-classification&theme=algolia" />
   </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2" alt="Medium post 3"  />
+  <a href="https://github.com/phionex2/Deep-Learning">
+    <img width="300em" src="https://github-readme-stats.vercel.app/api/pin/?username=phionex2&repo=Deep-Learning&theme=algolia" />
   </a>
-</div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kesarsingh657/kesarsingh657/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kesarsingh657/kesarsingh657/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kesarsingh657/kesarsingh657/output/pacman-contribution-graph.svg">
-</picture>
-
-###
+</p>
